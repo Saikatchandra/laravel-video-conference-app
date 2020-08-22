@@ -1,3 +1,5 @@
+https://www.twilio.com/blog/create-video-conference-app-laravel-php-vue-js
+
 This repo will allow you to create your own Laravel 7 video chat room. 
 
 If you're interested in actually creating this from scratch, a tutorial is available at twilio.com.
@@ -9,7 +11,7 @@ To install on your computer, run the following command in your terminal:
 ```bash
 $ git clone git@github.com:themarcusbattle/laravel-video-conference-app.git
 ```
-https://www.twilio.com/blog/create-video-conference-app-laravel-php-vue-js
+
 Install all dependencies:
 
 ```bash
